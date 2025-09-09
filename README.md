@@ -1,1 +1,3 @@
 # Smartcity
+The Smart City AI project leverages advanced artificial intelligence and IoT technologies to create intelligent urban environments that optimize resource usage, improve public safety, and enhance quality of life. By integrating real-time data analytics, predictive modeling, and automated decision-making, it aims to tackle challenges such as traffic congestion, energy management, waste reduction, and pollution control. This project empowers city planners and citizens alike to build sustainable, resilient, and efficient smart cities for the future.
+"https://drive.google.com/file/d/1in1d2eQfoy995wcZJ8hiVQpZExsjAd1C/view?usp=sharing"
